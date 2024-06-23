@@ -1,5 +1,8 @@
 # PokéGAN
 
+![PokéGAN Output](results/result-image-0108.png)
+![PokéGAN Animation](results.gif)
+
 ## Overview
 PokéGAN uses Generative Adversarial Networks (GANs) to create new, fake Pokémon images. This project addresses the limitations of previous attempts by leveraging a unique and extensive dataset to generate higher quality and more diverse Pokémon images.
 
